@@ -27,12 +27,12 @@ Openwater is building open-source platforms for medical imaging and therapeutic 
 
 - [Openwater Health](https://openwater.health) - Official company website
 - [GitHub Organization](https://github.com/OpenwaterHealth) - All open-source repositories
-- [Documentation](https://docs.openwater.health) - Complete technical documentation (Coming Soon)
+- [Documentation](https://docs.openwater.health) - Complete technical documentation
 - [openwater-commons](https://github.com/OpenwaterHealth/openwater-commons) - Central hub for governance and roadmap
 
 ## Platforms
 
-### OpenLIFU (Low Intensity Focused Ultrasound)
+### Open-LIFU (Low Intensity Focused Ultrasound)
 
 - [OpenLIFU-python](https://github.com/OpenwaterHealth/OpenLIFU-python) - Core Python toolbox for ultrasound planning and control
 - [SlicerOpenLIFU](https://github.com/OpenwaterHealth/SlicerOpenLIFU) - 3D Slicer extension for treatment planning
@@ -194,7 +194,7 @@ See [conference-talks/](conference-talks/) for complete list.
 
 ## Hardware
 
-### OpenLIFU Hardware
+### Open-LIFU Hardware
 
 **Mechanical:**
 - [OpenLIFU-hardware-mechanical](https://github.com/OpenwaterHealth/OpenLIFU-hardware-mechanical) - CAD files and 3D models (Coming Soon)
@@ -208,7 +208,7 @@ See [conference-talks/](conference-talks/) for complete list.
 - [OpenLIFU-assembly-guides](https://github.com/OpenwaterHealth/OpenLIFU-assembly-guides) - Step-by-step build instructions (Coming Soon)
 - [OpenLIFU-bom](https://github.com/OpenwaterHealth/OpenLIFU-bom) - Bill of materials with sourcing (Coming Soon)
 
-### OpenMOTION Hardware
+### Open-Motion Hardware
 
 **Sensors & Systems:**
 - [OpenMOTION-hardware-mechanical](https://github.com/OpenwaterHealth/OpenMOTION-hardware-mechanical) - Sensor housing and mounting (Coming Soon)
