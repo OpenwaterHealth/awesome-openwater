@@ -1,5 +1,9 @@
 # Awesome Openwater [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Disclaimer
+
+CAUTION - Investigational device. Limited by Federal (or United States) law to investigational use. The system described here has not been evaluated by the FDA and is not designed for the treatment or diagnosis of any disease. It is provided AS-IS, with no warranties. User assumes all liability and responsibility for identifying and mitigating risks associated with using this software.
+
 > A curated list of awesome Openwater resources, tools, papers, and community projects for open-source medical device innovation.
 
 Openwater is building open-source platforms for medical imaging and therapeutic ultrasound, making advanced healthcare technology accessible to everyone.
